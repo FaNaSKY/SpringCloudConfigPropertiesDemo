@@ -1,5 +1,5 @@
 my:
-   foo: "Hello World from config server"
+   foo: "Hello World from config server test"
 
 db:
    connection: connection-string-demo-config-server
